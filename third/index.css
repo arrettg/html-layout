@@ -1,0 +1,45 @@
+.line-1{
+    box-sizing: border-box;
+    background-color: gray;
+    height: 18%;
+    margin-bottom: 25px;
+    
+}
+.line-2{
+    box-sizing: border-box;
+    background-color: blue;
+    width: 100%;
+    height: 18%;
+    margin-top: 25px;
+}
+.line-3{
+    box-sizing: border-box;
+    background-color:lightblue;
+    width: 100%;
+    height: 18%;
+}
+.line-4{
+    box-sizing: border-box;
+    background-color: lightgreen;
+    width:100%;
+    height: 18%;
+}
+.line-5{
+    box-sizing: border-box;
+    background-color: yellow;
+    width: 100%;
+    height: 18%;
+}
+.text{
+    width: 100%;
+    height: 25%;
+    margin: 50px;
+}
+.small-blue-square{
+    box-sizing: border-box;
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+    padding-top: 15px;
+}
